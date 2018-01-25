@@ -32,3 +32,7 @@ figure {
 figcaption {
   padding: .5em;
 }
+
+.xs-1 {
+  width: 100%;
+}
